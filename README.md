@@ -1,4 +1,4 @@
- <img src="https://github.com/orhankoyunbakan/orhankoyunbakan/myprofile.gif" height="40px" width="45px"/>
+ <img src="https://github.com/orhankoyunbakan/myprofile.gif" height="40px" width="45px"/>
 
 
 
