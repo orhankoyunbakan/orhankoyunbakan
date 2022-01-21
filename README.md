@@ -17,8 +17,8 @@
 <h2 align="center">Contact Me</h2>
 <div align="center">
 <a href="https://www.instagram.com/orhan_kbakan/"><img width="80px" src="https://github.com/orhankoyunbakan/orhankoyunbakan/blob/main/instagram-icon.png"></a>
-<a href="https://www.twitter.com/orhan_kbakan/"><img width="80px" src="https://github.com/orhankoyunbakan/orhankoyunbakan/blob/main/twitter-icon.png"></a>
-<a href="https://www.linkedin.com/orhan_kbakan/"><img width="80px" src="https://github.com/orhankoyunbakan/orhankoyunbakan/blob/main/linkedin-icon.png"></a>
+<a href="https://www.twitter.com/orhankoyunbakan/"><img width="80px" src="https://github.com/orhankoyunbakan/orhankoyunbakan/blob/main/twitter-icon.png"></a>
+<a href="https://www.linkedin.com/in/orhankoyunbakan/"><img width="80px" src="https://github.com/orhankoyunbakan/orhankoyunbakan/blob/main/linkedin-icon.png"></a>
 </div>
 
 
