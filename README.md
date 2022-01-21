@@ -11,16 +11,15 @@
 </br>
 </div>
 </br>
-<h3 align="center">Languages and Tools</h3>
-<hr>
-<p align="center">HTML-CSS-JAVASCRİPT-JQUERY-BOOTSTRAP-ANGULARJS-MYSQL-PHP-PHYTON-C-C#</p>
+<h2 align="center">Languages</h2>
+<p align="center">HTML-CSS-JAVASCRİPT-JQUERY-BOOTSTRAP-ANGULARJS-MYSQL-PHP-PHYTON-C-C#-JAVA</p>
 </br>
-<h3 align="center">Contact Me</h3>
-<hr>
-<a href="https://www.instagram.com/orhan_kbakan/"align="center"><img src=""></a>
-<a href="https://www.twitter.com/orhan_kbakan/"align="center"><img src=""></a>
-<a href="https://www.linkedin.com/orhan_kbakan/"align="center"><img src=""></a>
-
+<h2 align="center">Contact Me</h2>
+<div align="center">
+<a href="https://www.instagram.com/orhan_kbakan/"><img width="80px" src="https://github.com/orhankoyunbakan/orhankoyunbakan/blob/main/instagram-icon.png"></a>
+<a href="https://www.twitter.com/orhan_kbakan/"><img width="80px" src="https://github.com/orhankoyunbakan/orhankoyunbakan/blob/main/twitter-icon.png"></a>
+<a href="https://www.linkedin.com/orhan_kbakan/"><img width="80px" src="https://github.com/orhankoyunbakan/orhankoyunbakan/blob/main/linkedin-icon.png"></a>
+</div>
 
 
 
